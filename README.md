@@ -30,9 +30,9 @@ ANSHIF HASSAN
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/7b098fd5702daeb7e0.jpg)
+- [`GooglePay`](https://telegra.ph/file/7b098fd5702daeb7e0.jpg)
 
 <p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
+Scan qr code from the above button, You can pay through GooglePay, Paytm and PhonePe.
 </p>
 
