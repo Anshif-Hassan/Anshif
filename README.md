@@ -1,6 +1,6 @@
 <h1 align="center">ꪶ𝐴𝑁𝑆𝐻𝐼𝐹ꫂ<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/HQHMw5I.jpeg" alt="GIF" width="300" height="270"/>
+<img src="https://graph.org/file/09b5d769fddce5a771563.jpg" alt="GIF" width="300" height="270"/>
 </p>
 
 <p align="center">
