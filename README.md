@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Billie-MD Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/ANSHIF-HASSAN" target="_blank">Anshif</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+ Hy Iam <a href="https://github.com/ANSHIF-HASSAN" target="_blank">Anshif<a>. Dont forget to follow me
 </p>
 
 <p align="center">
