@@ -17,7 +17,7 @@ Billie-MD Bot Multi Device is a automated whatsapp bot created by <a href="https
 <p align="center">
 <a href="https://wa.me/917902481848"><img src="https://img.shields.io/badge/Contact Anshif-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.wha6776tsapp.com/HYj9wu5Jrv6C566ROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/@anshifmodz3490"><img src="https://img.shields.io/badge/Subscribe Anshif-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/ANSHIF MODZ" /><br>
+<a href="https://youtube.com/@anshifmodz3490"><img src="https://img.shields.io/badge/Subscribe Anshif-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@anshifmodz3490" /><br>
 </p>
 
 ## ```Donate Me```
