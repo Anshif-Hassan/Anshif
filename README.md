@@ -35,8 +35,3 @@
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
 
-## ▣ Help?
-## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=350&lines=HI+HOW+ARE+YOU+...;IAM+ANSHIF+HASSAN+;IAM+NOT+A+PROFESSIONAL+DEVELOPER;THANK+YOU+❤️)](https://git.io/typing-svg) <br/>
-<br/>
-
-
