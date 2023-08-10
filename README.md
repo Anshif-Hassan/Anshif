@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
- Hy Iam <a href="https://github.com/ANSHIF-HASSAN" target="_blank">Anshif<a>. Dont forget to follow me
+ Hey iam <a href="https://github.com/ANSHIF-HASSAN" target="_blank">Anshif<a>, Dont forget to follow me on Github
 </p>
 
 <p align="center">
