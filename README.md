@@ -1,5 +1,6 @@
-<h1 align="center">ꪶ𝐴𝑁𝑆𝐻𝐼𝐹ꫂ<br></h1>
-<p align="center">
+<h1 align="center">
+ANSHIF HASSAN
+
 
 ## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=000000&size=20&width=350&lines=HI+HOW+ARE+YOU...;IAM+ANSHIF+HASSAN+;IAM+NOT+A+PROFESSIONAL+DEVELOPER;THANK+YOU+❤️)](https://git.io/typing-svg) <br/>
 <br/>
